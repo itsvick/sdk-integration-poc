@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { AppConfig, customConfig } from './config';
-import * as player from '../../../node_modules/@project-sunbird/content-player';
 
 
 
