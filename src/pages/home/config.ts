@@ -154,7 +154,7 @@ export const customConfig = {
 	"config": {
 	  "version": "BUILD_NUMBER",
 	  "processing_timeout": 10,
-	  "host": "",
+	  "host": "https://staging.ntp.net.in",
 	  "canvasVersion": "genie-canvas-version",
 	  "recorder": "AUDIO_RECORDER",
 	  "flavor": "DEPLOYMENT",
